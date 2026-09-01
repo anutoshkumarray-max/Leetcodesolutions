@@ -48,4 +48,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0584-find-customer-referee) |
 | [0627-swap-sex-of-employees](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0627-swap-sex-of-employees) |
+| [1527-patients-with-a-condition](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1527-patients-with-a-condition) |
 <!---LeetCode Topics End-->
