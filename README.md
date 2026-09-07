@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [1019-next-greater-node-in-linked-list](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2418-sort-the-people](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2418-sort-the-people) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0146-lru-cache) |
+| [1019-next-greater-node-in-linked-list](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -115,8 +117,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0143-reorder-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0143-reorder-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
