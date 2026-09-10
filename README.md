@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0367-valid-perfect-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Array
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1019-next-greater-node-in-linked-list](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0389-find-the-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2418-sort-the-people](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2418-sort-the-people) |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Database
 |  |
@@ -139,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0412-fizz-buzz) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
