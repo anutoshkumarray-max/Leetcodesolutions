@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0134-gas-station) |
 | [0217-contains-duplicate](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0217-contains-duplicate) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
