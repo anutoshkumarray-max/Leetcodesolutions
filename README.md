@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0048-rotate-image) |
 | [0367-valid-perfect-square](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0412-fizz-buzz) |
+| [0523-continuous-subarray-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0523-continuous-subarray-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2485-find-the-pivot-integer](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2485-find-the-pivot-integer) |
 | [3870-count-commas-in-range](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3870-count-commas-in-range) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0523-continuous-subarray-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0525-contiguous-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1019-next-greater-node-in-linked-list](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0389-find-the-difference) |
+| [0523-continuous-subarray-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0525-contiguous-array) |
 | [2418-sort-the-people](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2418-sort-the-people) |
 ## Linked List
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0525-contiguous-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [2485-find-the-pivot-integer](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2485-find-the-pivot-integer) |
@@ -169,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0048-rotate-image) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
