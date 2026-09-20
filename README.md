@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0053-maximum-subarray) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0031-next-permutation) |
 | [0143-reorder-list](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0143-reorder-list) |
 | [0392-is-subsequence](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0392-is-subsequence) |
