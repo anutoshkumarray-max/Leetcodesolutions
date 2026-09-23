@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0523-continuous-subarray-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2485-find-the-pivot-integer](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2485-find-the-pivot-integer) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2761-prime-pairs-with-target-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [3870-count-commas-in-range](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3870-count-commas-in-range) |
 ## Binary Search
