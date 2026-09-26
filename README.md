@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0134-gas-station) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0412-fizz-buzz) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3028-ant-on-the-boundary](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3028-ant-on-the-boundary) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0054-spiral-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Pigeonhole Principle
 |  |
