@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0541-reverse-string-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2129-capitalize-the-title](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2129-capitalize-the-title) |
 | [2418-sort-the-people](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0143-reorder-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
