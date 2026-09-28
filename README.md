@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0541-reverse-string-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2129-capitalize-the-title](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2129-capitalize-the-title) |
 | [2418-sort-the-people](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0143-reorder-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -235,4 +237,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
