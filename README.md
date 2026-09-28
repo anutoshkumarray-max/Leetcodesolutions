@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0169-majority-element) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Pigeonhole Principle
 |  |
