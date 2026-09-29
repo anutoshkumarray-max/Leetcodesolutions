@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0048-rotate-image) |
 | [0367-valid-perfect-square](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0412-fizz-buzz) |
