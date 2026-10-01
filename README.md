@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0229-majority-element-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
