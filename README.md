@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0301-remove-invalid-parentheses) |
 | [0389-find-the-difference](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0412-fizz-buzz) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -333,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0493-reverse-pairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
