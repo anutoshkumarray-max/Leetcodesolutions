@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0454-4sum-ii) |
 | [0493-reverse-pairs](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0523-continuous-subarray-sum) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0454-4sum-ii) |
 | [0523-continuous-subarray-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0525-contiguous-array) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2418-sort-the-people](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2418-sort-the-people) |
 ## Heap (Priority Queue)
