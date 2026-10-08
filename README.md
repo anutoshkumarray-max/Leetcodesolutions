@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0930-binary-subarrays-with-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1019-next-greater-node-in-linked-list](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2418-sort-the-people) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [2485-find-the-pivot-integer](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2574-left-and-right-sum-differences) |
@@ -345,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0301-remove-invalid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
