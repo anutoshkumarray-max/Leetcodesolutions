@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0930-binary-subarrays-with-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1019-next-greater-node-in-linked-list](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1207-unique-number-of-occurrences](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1207-unique-number-of-occurrences](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2215-find-the-difference-of-two-arrays) |
