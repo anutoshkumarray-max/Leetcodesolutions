@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2418-sort-the-people) |
 | [2574-left-and-right-sum-differences](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2574-left-and-right-sum-differences) |
 | [2761-prime-pairs-with-target-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2761-prime-pairs-with-target-sum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3028-ant-on-the-boundary](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3028-ant-on-the-boundary) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2761-prime-pairs-with-target-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2761-prime-pairs-with-target-sum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
