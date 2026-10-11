@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
