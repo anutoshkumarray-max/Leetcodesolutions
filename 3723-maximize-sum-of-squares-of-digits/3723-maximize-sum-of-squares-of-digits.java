@@ -1,7 +1,8 @@
 class Solution {
     public String maxSumOfSquares(int num, int sum) {
-        if (sum > num * 9)
+        if (sum > num * 9){
             return "";
+        }
         int nines = sum / 9;
         int remain = sum % 9;
         StringBuilder result = new StringBuilder();
