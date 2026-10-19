@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2333-minimum-sum-of-squared-difference) |
