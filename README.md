@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1248-count-number-of-nice-subarrays) |
