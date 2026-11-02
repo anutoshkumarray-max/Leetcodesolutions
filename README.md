@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0704-binary-search) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0454-4sum-ii) |
 | [0463-island-perimeter](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0463-island-perimeter) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0560-subarray-sum-equals-k) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0134-gas-station) |
+| [0410-split-array-largest-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
