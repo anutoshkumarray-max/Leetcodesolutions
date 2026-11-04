@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0389-find-the-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Two Pointers
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0541-reverse-string-ii) |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0523-continuous-subarray-sum) |
 ## Enumeration
 |  |
@@ -519,4 +524,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0069-sqrtx) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
