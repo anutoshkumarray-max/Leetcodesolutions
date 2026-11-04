@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2951-find-the-peaks](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2951-find-the-peaks) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3028-ant-on-the-boundary](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3028-ant-on-the-boundary) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2761-prime-pairs-with-target-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2951-find-the-peaks](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2951-find-the-peaks) |
 ## Number Theory
 |  |
 | ------- |
