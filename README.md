@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0493-reverse-pairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0187-repeated-dna-sequences) |
+| [0191-number-of-1-bits](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0389-find-the-difference) |
