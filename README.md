@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1539-kth-missing-positive-number) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0541-reverse-string-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
