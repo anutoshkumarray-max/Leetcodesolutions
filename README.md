@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2951-find-the-peaks) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3028-ant-on-the-boundary](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3028-ant-on-the-boundary) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
