@@ -528,14 +528,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0463-island-perimeter](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0463-island-perimeter) |
 ## Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
