@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3028-ant-on-the-boundary](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3028-ant-on-the-boundary) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2574-left-and-right-sum-differences) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3028-ant-on-the-boundary](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3028-ant-on-the-boundary) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Union-Find
 |  |
 | ------- |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0187-repeated-dna-sequences) |
 | [0930-binary-subarrays-with-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Rolling Hash
 |  |
 | ------- |
