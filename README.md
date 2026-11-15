@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0367-valid-perfect-square) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
