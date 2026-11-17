@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1901-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2187-minimum-time-to-complete-trips](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2094-finding-3-digit-even-numbers](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2418-sort-the-people) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2418-sort-the-people](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2418-sort-the-people) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0143-reorder-list) |
+| [2094-finding-3-digit-even-numbers](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
@@ -448,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2761-prime-pairs-with-target-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2951-find-the-peaks) |
