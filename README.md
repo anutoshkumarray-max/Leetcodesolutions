@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3028-ant-on-the-boundary](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3028-ant-on-the-boundary) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3483-unique-3-digit-even-numbers](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Linked List
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0143-reorder-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2761-prime-pairs-with-target-sum](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2761-prime-pairs-with-target-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2951-find-the-peaks) |
+| [3483-unique-3-digit-even-numbers](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
