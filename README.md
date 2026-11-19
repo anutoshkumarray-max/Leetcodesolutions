@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2129-capitalize-the-title](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2129-capitalize-the-title) |
 | [2418-sort-the-people](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2418-sort-the-people) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0389-find-the-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/0301-remove-invalid-parentheses) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anutoshkumarray-max/Leetcodesolutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Binary Indexed Tree
 |  |
 | ------- |
