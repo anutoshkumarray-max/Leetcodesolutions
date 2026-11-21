@@ -1,21 +1,19 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> ans = new ArrayList<>();
-        ArrayList<Integer> list = new ArrayList<>();
+        List<List<Integer>> list = new ArrayList<>();
+        ArrayList<Integer> ans = new ArrayList<>();
         int n = nums.length;
-        return subsequences(0,n,list,ans,nums);
+        solve(0,nums,ans,list);
+        return list;
     }
-    public List<List<Integer>> subsequences(int i,int n,ArrayList<Integer> list,List<List<Integer>> ans,int[] nums){
-        if(i>=n){
-            ans.add(new ArrayList<>(list));
-            return ans;
+    private void solve(int ind,int[] nums,List<Integer> ans,List<List<Integer>> list){
+        if(ind==nums.length){
+            list.add(new ArrayList<>(ans));
+            return;
         }
-        list.add(nums[i]);
-        subsequences(i+1,n,list,ans,nums);
-        list.remove(list.size()-1);
-        subsequences(i+1,n,list,ans,nums);
-
-        return ans;
+        ans.add(nums[ind]);
+        solve(ind+1,nums,ans,list);
+        ans.remove(ans.size()-1);
+        solve(ind+1,nums,ans,list);
     }
-
 }
